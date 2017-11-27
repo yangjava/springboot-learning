@@ -14,7 +14,7 @@ spring boot 技术学习笔记
  ### 1.springboot-helloworld <br>
  ![springboot-helloworld](https://github.com/yangjava/springboot-learning/blob/master/doc/springboot/SpringBoot%E4%B9%8BHelloWorld.png)
  <br>
-  ### 2.springboot-properties <br>
+ ### 2.springboot-properties <br>
   ![springboot-properties](https://github.com/yangjava/springboot-learning/blob/master/doc/springboot/SpringBoot-Properties.png)
  <br>
  ### 3.springboot-mybatis <br>
