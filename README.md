@@ -11,18 +11,18 @@ spring boot 技术学习笔记
 [springboot的SQL脚本](https://github.com/yangjava/springboot-learning/blob/master/doc/springboot.sql)
 
 ## 三、学习笔记
- ### - springboot-helloworld <br>
+ ### 1.springboot-helloworld <br>
  ![springboot-helloworld](https://github.com/yangjava/springboot-learning/blob/master/doc/springboot/SpringBoot%E4%B9%8BHelloWorld.png)
  <br>
-  ### -  springboot-properties <br>
+  ### 2.springboot-properties <br>
   ![springboot-properties](https://github.com/yangjava/springboot-learning/blob/master/doc/springboot/SpringBoot-Properties.png)
  <br>
- ### springboot-mybatis <br>
+ ### 3.springboot-mybatis <br>
   ![springboot-mybatis](https://github.com/yangjava/springboot-learning/blob/master/doc/springboot/SpringBoot-Mybatis.png)
  <br>
- ### springboot-mybatis-annotation <br>
+ ### 4.springboot-mybatis-annotation <br>
   ![springboot-t-mybatis-annotation](https://github.com/yangjava/springboot-learning/blob/master/doc/springboot/SpringBoot-Mybaits-Annotation.png)
  <br>
- ### springboot-jpa <br>
+ ### 5.springboot-jpa <br>
   ![springboot-jpa](https://github.com/yangjava/springboot-learning/blob/master/doc/springboot/SpringBoot-JPA.png)
  <br>
